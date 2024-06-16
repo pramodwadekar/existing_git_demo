@@ -1,6 +1,6 @@
 from .models import *
 
-import base64  #this is new change
+import base64  
 
 import numpy as np
 import pytesseract
